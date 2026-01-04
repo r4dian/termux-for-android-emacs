@@ -19,4 +19,4 @@ cd C:\Users\████\AppData\Local\Android\Sdk\build-tools\36.1.0
 This APK works for me on my Android device, that at the date of writing have an older version of Android provided by Sony respectively:
 - Sony Xperia 10 III aka  XQ-BT52
 
-To install apksigner, just install [the Android Studio](https://developer.android.com/studio) and launch it once so you can agree to everything.
+To install apksigner, just install [the Android Studio](https://developer.android.com/studio) and launch it once so you can agree to everything, then it will add the build-tools folder.
