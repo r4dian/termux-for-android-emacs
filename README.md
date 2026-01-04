@@ -16,7 +16,7 @@ cd C:\Users\████\AppData\Local\Android\Sdk\build-tools\36.1.0
 .\apksigner.bat sign --v2-signing-enabled --ks D:\Downloads\emacs.keystore -debuggable-apk-permitted --ks-pass pass:emacs1 D:\Downloads\termux-app_v0.118.0+bcb61c3-apt-android-7-github-debug_universal.apk
 ```
 
-This APK works for me on my Android device, that at the date of writing have an older version of Android provided by Sony respectively:
+This APK works for me on my Android device, that at the date of writing has an older version of Android provided by Sony:
 - Sony Xperia 10 III aka  XQ-BT52
 
 To install apksigner, just install [the Android Studio](https://developer.android.com/studio) and launch it once so you can agree to everything, then it will add the build-tools folder.
